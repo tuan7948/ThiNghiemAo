@@ -1,0 +1,6 @@
+{
+  "name": "Mô Phỏng Thí Nghiệm Zn + HCl - Hóa Học 10 GDPT 2018",
+  "description": "Phòng thí nghiệm ảo khảo sát phản ứng Zinc tác dụng với Hydrochloric Acid, khảo sát tốc độ phản ứng theo nồng độ, nhiệt độ và diện tích bề mặt theo chương trình GDPT 2018.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
